@@ -1,0 +1,100 @@
+AvgCountLine , None
+AvgCountLineBlank , None
+AvgCountLineBlankWithInactive , None
+AvgCountLineCode , None
+AvgCountLineCodeWithInactive , None
+AvgCountLineComment , None
+AvgCountLineCommentWithInactive , None
+
+AvgCyclomatic , 4
+AvgCyclomaticModified , 4
+AvgCyclomaticStrict , 5
+AvgCyclomaticStrictModified , 4
+
+AvgEssential , 2
+AvgEssentialStrictModified , 0
+
+CountClassBase , None
+CountClassCoupled , None
+CountClassCoupledModified , None
+CountClassDerived , None
+
+CountDeclClass , 196249
+CountDeclClassMethod , 49188
+CountDeclClassVariable , 60883
+
+CountDeclExecutableUnit , 0
+CountDeclFile , 120811
+CountDeclFileCode , 70678
+CountDeclFileHeader , 50133
+CountDeclFunction , 1063432
+
+CountDeclInstanceMethod , 1377680
+CountDeclInstanceVariable , 803809
+CountDeclInstanceVariableInternal , 0
+CountDeclInstanceVariablePrivate , 111911
+CountDeclInstanceVariableProtected , 45026
+CountDeclInstanceVariableProtectedInternal , 0
+CountDeclInstanceVariablePublic , 646872
+
+CountDeclMethod , 1298902
+CountDeclMethodAll , None
+CountDeclMethodConst , 76157
+CountDeclMethodDefault , 0
+CountDeclMethodFriend , None
+CountDeclMethodInternal , 0
+CountDeclMethodPrivate , 111268
+CountDeclMethodProtected , 132276
+CountDeclMethodProtectedInternal , 0
+CountDeclMethodPublic , 1055358
+
+CountInput , None
+CountLine , 66513977
+CountLineBlank , 10187612
+CountLineBlankWithInactive , 11077250
+CountLineCode , 35176292
+CountLineCodeDecl , 14636465
+CountLineCodeExe , 40399950
+CountLineCodeWithInactive , 41212382
+CountLineComment , 15934074
+CountLineCommentWithInactive , 16983738
+CountLineInactive , 5148542
+CountLinePreprocessor , 2868662
+
+CountOutput , None
+CountPath , None
+CountSemicolon , 15130480
+CountStmt , 20525331
+CountStmtDecl , 6431269
+CountStmtEmpty , 905954
+CountStmtExe , 13513110
+
+Cyclomatic , None
+CyclomaticModified , None
+CyclomaticStrict , None
+CyclomaticStrictModified , None
+
+Essential , None
+Knots , None
+
+MaxCyclomatic , 1591
+MaxCyclomaticModified , 1299
+MaxCyclomaticStrict , 1694
+MaxCyclomaticStrictModified , 1412
+
+MaxEssential , 514
+MaxEssentialKnots , None
+MaxInheritanceTree , None
+MaxNesting , 23
+
+MinEssentialKnots , None
+PercentLackOfCohesion , None
+RatioCommentToCode , 0,45
+
+SumCyclomatic , 4797119
+SumCyclomaticModified , 4475102
+SumCyclomaticStrict , 5369347
+SumCyclomaticStrictModified , 5047330
+
+SumEssential , 2503074
+SumEssentialStrictModified , 0
